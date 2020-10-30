@@ -3,6 +3,8 @@ Class Watch{
 
     public String masterbranch(int num){
         return "Love you";
+
+        
     }
     
 }
